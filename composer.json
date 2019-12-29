@@ -1,0 +1,12 @@
+{
+    "name": "digimix/cmb2-field-ajax-search",
+    "description": "Fork of rubengc/cmb2-field-ajax-search
+ WordPress plugin with added Composer support.",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=7.3"
+    },
+    "version": "1.0.1",
+    "keywords": ["wordpress"],
+    "homepage": "https://github.com/rubengc/cmb2-field-ajax-search"
+    }

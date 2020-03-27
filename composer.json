@@ -3,7 +3,7 @@
     "description": "Fork of rubengc/cmb2-field-ajax-search WordPress plugin with added Composer support",
     "type": "wordpress-plugin",
     "require": {
-        "php": ">=7.3"
+        "php": ">=7.1"
     },
     "version": "1.0.1",
     "keywords": ["wordpress"],
